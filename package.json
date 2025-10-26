@@ -1,0 +1,17 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "A backend in nodejs",
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs"
+  ],
+  "license": "ISC",
+  "author": "Aniket Shirke",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
